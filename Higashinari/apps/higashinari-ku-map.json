@@ -1,0 +1,797 @@
+{
+    "app_name" : {
+        "ja" : "ひがしなりまち歩きアプリ",
+        "en" : "Higashinari Walking Map App"
+    },
+    "lang" : "ja",
+    "splash" : "splash.png",
+    "home_position" : [135.543672,34.674383],
+    "default_zoom" : 16,
+    "start_from": "osm",
+    "sources" : [
+
+      {
+          "label" : "昭和17年空中写真",
+          "mapID"     : "s17-imazato"
+        },
+        {
+          "label" : "1万分の1（1921年）",
+          "mapID"     : "higashinari-ku-map"
+        },
+        {
+          "label" : "2万分の1（1908年）",
+          "mapID"     : "Higashinari1908"
+        },
+        {
+          "label" : "2万分の1（1886年）",
+          "mapID"     : "Higashinari1886"
+        },
+        {
+          "label" : "お宝マップ",
+          "mapID"     : "otakara-map"
+        },
+        {
+          "label" : "東成区防災マップ",
+          "mapID"     : "higashinari-dayori_202007"
+        },
+        {
+          "label" : "東成区内マップ",
+          "mapID"     : "higashinari-district_ura"
+        },
+      "gsi",
+      "gsi_ortho",
+      {
+        "mapID": "omt",
+        "title": {
+          "ja": "オープンマップタイル",
+          "en": "OpenMapTiles"
+        },
+        "label": {
+          "ja": "OMT(現在)",
+          "en": "OMT(Now)"
+        },
+        "attr": "©︎ OpenStreetMap contributors",
+        "maptype": "base",
+        "url": "https://www.cerd.osaka-cu.ac.jp:8443/styles/klokantech-basic/{z}/{x}/{y}.png",
+        "maxZoom": 18
+      },
+      "osm"
+    ],
+    "pois" :[
+      {
+        "name" : "八王子御旅所",
+        "address" : "大阪府大阪市東成区大今里1丁目17-10",
+        "lat" : 34.673126,
+        "lng" : 135.545575,
+        "start" : 1017,
+        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/SFlKkqBJgAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+        "image" : "hatiouziotabizyo.jpg"
+      },
+      {
+        "name" : "八王子御旅所遠景",
+        "address" : "大阪府大阪市東成区大今里1丁目17-10",
+        "lat" : 34.673285,
+        "lng" : 135.545634 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "hachiouziotabizyoenkei.jpg"
+      },
+      {
+        "name" : "八王子御旅所南",
+        "address" : "",
+        "lat" : 34.672879,
+        "lng" : 135.545411,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "hatiouziotabizyominami.jpg"
+      },
+      {
+        "name" : "八阪神社",
+        "address" : "大阪市東成区中道4丁目8−20",
+        "lat" : 34.675339,
+        "lng" : 135.538062,
+        "start" : "垂仁天皇2年",
+        "desc" : "１、宮司さんのお話<iframe width=560 height=315 src=https://www.youtube.com/embed/FK4VfFTxuEg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、だんじりとお神輿について<iframe width=560 height=315 src=https://www.youtube.com/embed/AvV6cGygXgY frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+      },
+      {
+        "name" : "以前は橋の壁",
+        "address" : "大阪市東成区中道4丁目8−20",
+        "lat" : 34.675250,
+        "lng" : 135.537877,
+        "start" : "",
+        "desc" : "元々は橋でした。",
+        "image" : "isinokabe.jpg"
+      },
+      {
+        "name" : "神輿庫",
+        "address" : "大阪市東成区中道4丁目8−20",
+        "lat" : 34.675333,
+        "lng" : 135.537921,
+        "start" : "",
+        "desc" : "　",
+        "image" : "mikosiko 1.jpg"
+      },
+      {
+        "name" : "石碑",
+        "address" : "大阪市東成区東小橋3丁目8-14",
+        "lat" : 34.677494,
+        "lng" : 135.539809,
+        "start" : "",
+        "desc" : "　",
+        "image" : "hatiouzisekihi.jpg"
+      },
+      {
+        "name" : "八王子神社",
+        "address" : "大阪市東成区東小橋3丁目8-14",
+        "lat" : 34.677439,
+        "lng" : 135.539973,
+        "start" : 1017,
+        "desc" : "１、東成5社について<iframe width=560 height=315 src=https://www.youtube.com/embed/o2jX24CREUM frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、相撲部屋について<iframe width=560 height=315 src=https://www.youtube.com/embed/EsYZYCpx-5U frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、龍と護摩焚きについて<iframe width=560 height=315 src=https://www.youtube.com/embed/IPXRV7GMIkw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、八王子御旅所について<iframe width=560 height=315 src=https://www.youtube.com/embed/28FFHI0CPAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+      },
+      {
+        "name" : "神路・東今里村の境界",
+        "address" : "",
+        "lat" : 34.673455,
+        "lng" : 135.548199 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "higasiimazato-kamizikyoukai.jpg"
+      },
+      {
+        "name" : "熊野大神宮御旅所",
+        "address" : "",
+        "lat" : 34.674562,
+        "lng" : 135.550456 ,
+        "start" : 1017,
+        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/vQGJJUKsU-s frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+      },
+      {
+        "name" : "熊野大神宮御旅所遠景",
+        "address" : "",
+        "lat" : 34.675021,
+        "lng" : 135.550557  ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "kumanodaizinnguuotabizyoenkei.jpg"
+      },
+      {
+        "name" : "西今里村境界",
+        "address" : "",
+        "lat" : 34.674458,
+        "lng" : 135.545590 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "nisiimazatokyoukai.jpg"
+      },
+      {
+        "name" : "奈良街道合流地点",
+        "address" : "",
+        "lat" : 34.670539,
+        "lng" : 135.544511 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "narakaidougouryutitenn.jpg"
+      },
+      {
+        "name" : "熊野旧集落",
+        "address" : "",
+        "lat" : 34.668620,
+        "lng" : 135.546852  ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "kumanokyusyuuraku.jpg"
+      },
+      {
+        "name" : "良念寺",
+        "address" : "",
+        "lat" : 34.668984,
+        "lng" : 135.546941  ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "ryounennzi.jpg"
+      },
+      {
+        "name" : "妙法寺",
+        "address" : "",
+        "lat" : 34.668845,
+        "lng" : 135.548237 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "myouhouzi.jpg"
+      },
+      {
+        "name" : "亀の橋跡",
+        "address" : "",
+        "lat" : 34.667421,
+        "lng" : 135.535191 ,
+        "start" : 1017,
+        "desc" : "昔は川がありました",
+        "image" : "kamenohashi.jpg"
+      },
+      {
+        "name" : "巻物橋",
+        "address" : "",
+        "lat" : 34.673938,
+        "lng" : 135.539307 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "makimonobasi.jpg"
+      },
+      {
+        "name" : "お地蔵様・観音寺の灯篭",
+        "address" : "",
+        "lat" : 34.675479,
+        "lng" : 135.539038 ,
+        "start" : 1017,
+        "desc" : "観音寺はもうありません",
+        "image" : "ozizousama.jpg"
+      },
+      {
+        "name" : "東小橋旧集落",
+        "address" : "",
+        "lat" : 34.667649,
+        "lng" : 135.533979 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "higashiobasekyuusyuuraku.jpg"
+      },
+      {
+        "name" : "熊野大神宮（くまのだいじんぐう）",
+        "address" : "大阪府大阪市東成区大今里４丁目１６−４８",
+        "lat" : 34.668498,
+        "lng" : 135.548309,
+        "start" : "",
+        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/V2pEG6O_fXc frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+      },
+      {
+        "name" : "比賣許曾（ひめこそ）神社 ",
+        "address" : "大阪府大阪市東成区東小橋３丁目８−１４",
+        "lat" : 34.666863,
+        "lng" : 135.534183,
+        "start" : "",
+	      "icon" : "parts/defaultpin.png",
+        "desc" : "１、回廊について<iframe width=560 height=315 src=https://www.youtube.com/embed/_NRj07dJPO8 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、絵画について<iframe width=560 height=315 src=https://www.youtube.com/embed/ZCKccH6QKk0 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、狛犬について<iframe width=560 height=315 src=https://www.youtube.com/embed/FjALm-2xqY4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、参道について<iframe width=560 height=315 src=https://www.youtube.com/embed/DJtPDS6MjP4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>5、胞衣塚について<iframe width=560 height=315 src=https://www.youtube.com/embed/vcSgwRL-cWg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+      },
+      {
+        "name" : "日本一小さい狛犬",
+        "address" : "大阪府大阪市東成区東小橋３丁目８−１４",
+        "lat" : 34.667128,
+        "lng" : 135.534232,
+        "start" : "",
+        "desc" : "　",
+        "image" : "tiisaikomainu.jpg"
+      },
+      {
+        "name" : "社の側面に描かれた絵地図",
+        "address" : "大阪府大阪市東成区東小橋３丁目８−１４",
+        "lat" : 34.667031,
+        "lng" : 135.534181,
+        "start" : "",
+        "desc" : "　",
+        "image" : "himekosonoe.jpg"
+      },
+      {
+        "name" : "胞衣塚",
+        "address" : "",
+        "lat" : 34.666459,
+        "lng" : 135.534232 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "enazuka.jpg"
+      },
+      {
+        "name" : "自然堤防の下り坂",
+        "address" : "",
+        "lat" : 34.676412,
+        "lng" : 135.538818 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "sizennteibounokudarizaka.jpg"
+      },
+      {
+        "name" : "ヒメコソ神社　南参道",
+        "address" : "",
+        "lat" : 34.666392,
+        "lng" : 135.534087 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "himekosominamisanndou.jpg"
+      },
+      {
+        "name" : "ヒメコソ神社　東参道",
+        "address" : "",
+        "lat" : 34.666749,
+        "lng" : 135.534425 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "himekosohigasisanndou.jpg"
+      },
+      {
+        "name" : "中道墓地",
+        "address" : "",
+        "lat" : 34.678798,
+        "lng" : 135.539529 ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "namitboti.jpg"
+      },
+      {
+        "name" : "大今里墓地",
+        "address" : "",
+        "lat" : 34.672129,
+        "lng" : 135.541472  ,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "ooimazatoboti.jpg"
+      },
+      {
+        "name" : "八王子神社近くの交差点",
+        "address" : "〒537-0014 大阪府大阪市東成区東成区大今里西１丁目２−３４",
+        "lat" : 34.674016,
+        "lng" : 135.539840,
+        "desc" : "　",
+        "image" : "hachiohjichikakunokousatenn.jpg"
+      },
+      {
+        "name" : "八王子北からの遠景",
+        "address" : "〒537-0022 大阪府大阪市東成区中本２丁目５−２",
+        "lat" : 34.678832,
+        "lng" : 135.540485,
+        "desc" : "　",
+        "image" : "hachiohjikitakaranoennkei.jpg"
+      },
+      {
+        "name" : "八坂旧集落１",
+        "address" : "〒537-0025 大阪府大阪市東成区中道４丁目９−９",
+        "lat" : 34.674832,
+        "lng" : 135.538512,
+        "desc" : "　",
+        "image" : "yasakakyuushuuraku1.jpg"
+      },
+      {
+        "name" : "八坂旧集落２",
+        "address" : "〒537-0025 大阪府大阪市東成区中道４丁目-１６",
+        "lat" : 34.674201,
+        "lng" : 135.538888,
+        "desc" : "　",
+        "image" : "yasakakyusyuraku2(1).jpg"
+      },
+      {
+        "name" : "八坂神社東参道",
+        "address" : "〒537-0025 大阪府大阪市東成区中道４丁目",
+        "lat" : 34.675353,
+        "lng" :  135.538547,
+        "desc" : "　",
+        "image" : "yasakahigashisanndou.jpg"
+      },
+      {
+        "name" : "八坂神社南参道",
+        "address" : "〒537-0025 大阪府大阪市東成区中道４丁目１５−２",
+        "lat" : 34.674792,
+        "lng" :  135.538013,
+        "desc" : "　",
+        "image" : "yasakaminamisanndou.jpg"
+      },
+      {
+        "name" : "八坂神社南参道石柱",
+        "address" : "〒537-0025 大阪府大阪市東成区中道４丁目１６",
+        "lat" : 34.674029,
+        "lng" :  135.537989,
+        "desc" : "　",
+        "image" : "yasakaminamisandousekityuu.jpg"
+      },
+{
+        "name" : "庄屋跡保育所",
+        "address" : "大阪市東成区中本４丁目１２−１",
+        "lat" : 34.674903,
+        "lng" : 135.539509,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "suouyaatohoikuzyo.jpg"
+      },
+      {
+        "name" : "熊野大神宮南入口",
+        "address" : "",
+        "lat" : 34.668243,
+        "lng" : 135.548102,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "kumanominamiiriguti.jpg"
+      },
+      {
+        "name" : "熊野大神宮西入口",
+        "address" : "",
+        "lat" : 34.668588,
+        "lng" : 135.547803,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "kumanonisiiriguti.jpg"
+      },
+      {
+        "name" : "東今里旧集落",
+        "address" : "",
+        "lat" : 34.674836,
+        "lng" : 135.551417,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "higasiimazatokyusyuuraku.jpg"
+      },
+      {
+        "name" : "八王子旧集落の道",
+        "address" : "大阪市東成区中本４丁目５−３０",
+        "lat" : 34.675766,
+        "lng" : 135.539104,
+        "start" : 1017,
+        "desc" : "　",
+        "image" : "hachiouzikyusyuurakunomiti.jpg"
+      },
+      {
+          "name" : "奈良街道",
+          "address" : "〒577-0058 大阪府東大阪市足代北２丁目２２",
+          "lat" : 34.668144,
+          "lng" : 135.560066,
+          "desc" : "　",
+          "image" : "narakaidou.jpg"
+        },
+        {
+          "name" : "伊能図",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目８",
+          "lat" : 34.671111,
+          "lng" : 135.560516,
+          "desc" : "　",
+          "image" : "inouzu.jpg"
+        },
+        {
+          "name" : "安堵の辻",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目７−６",
+          "lat" : 34.671555,
+          "lng" : 135.561388,
+          "desc" : "　",
+          "image" : "andonotuzi.jpg"
+        },
+        {
+          "name" : "法明寺",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６",
+          "lat" : 34.669873,
+          "lng" : 135.560300,
+          "desc" : "　",
+          "image" : "houmeizi.jpg"
+        },
+        {
+          "name" : "深江旧集落1",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６−１",
+          "lat" : 34.670356,
+          "lng" : 135.560181,
+          "desc" : "　",
+          "image" : "hukaeinarikyusyuraku1.jpg"
+        },
+        {
+          "name" : "深江旧集落2",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１３−２４",
+          "lat" : 34.670335,
+          "lng" : 135.561034,
+          "desc" : "　",
+          "image" : "hukaeinarikyusyuraku2.jpg"
+        },
+        {
+          "name" : "深江郷土資料館",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６−１４",
+          "lat" : 34.669970,
+          "lng" : 135.560929,
+          "desc" : "１、角谷三兄弟<iframe width=560 height=315 src=https://www.youtube.com/embed/IhXeGjG3Vbw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、角谷三兄弟の父<iframe width=560 height=315 src=https://www.youtube.com/embed/fstyIXQxhOs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>３、菅笠について<iframe width=560 height=315 src=https://www.youtube.com/embed/jQ1nKyOPIVo frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>４、道中笠と奈良街道<iframe width=560 height=315 src=https://www.youtube.com/embed/rrFjDbHaiVQ frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+          "image" : "hukaeinarisiryokan3.jpg"
+        },
+        {
+          "name" : "深江稲荷神社",
+          "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６",
+          "lat" : 34.669659,
+          "lng" : 135.560680,
+          "desc" : "１、神社の管轄について<iframe width=560 height=315 src=https://www.youtube.com/embed/pKLIgeKfwoI frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、祭りについて<iframe width=560 height=315 src=https://www.youtube.com/embed/2LF6IslodvA frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+          "image" : "hukaeinarizinzya.jpg"
+        },
+  {
+    "id": "2020_1",
+    "name": "今里西之口公園",
+    "lng": 135.5443422,
+    "lat": 34.6695465,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_1_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_1_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_2",
+    "name": "大今里公園",
+    "lng": 135.5487927,
+    "lat": 34.6687566,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_2_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_2_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_3",
+    "name": "西深江公園",
+    "lng": 135.5559374,
+    "lat": 34.671312,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_3_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_3_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_4",
+    "name": "南深江公園",
+    "lng": 135.5584728,
+    "lat": 34.6707274,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_4_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_4_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_5",
+    "name": "深江公園",
+    "lng": 135.559201,
+    "lat": 34.6739094,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_5_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_5_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_6",
+    "name": "東深江公園",
+    "lng": 135.5620508,
+    "lat": 34.6754959,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_6_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_7",
+    "name": "阪陽公園",
+    "lng": 135.5565334,
+    "lat": 34.6759298,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_7_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_7_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_8",
+    "name": "神路公園",
+    "lng": 135.5481908,
+    "lat": 34.6778991,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_8_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_8_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_9",
+    "name": "千間川みどり公園",
+    "lng": 135.550358,
+    "lat": 34.6811701,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_9_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_10",
+    "name": "千間川公園",
+    "lng": 135.5402594,
+    "lat": 34.6832411,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_10_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_10_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_11",
+    "name": "北中本公園",
+    "lng": 135.5423993,
+    "lat": 34.6803099,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_11_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_12",
+    "name": "中本くすのき公園",
+    "lng": 135.5413734,
+    "lat": 34.6772616,
+    "icon": "parts/sakura_icon.png",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_12_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_12_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_13",
+    "name": "北中道公園",
+    "lng": 135.5397104,
+    "lat": 34.6788514,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_13_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_14",
+    "name": "中道中央公園",
+    "lng": 135.5368689,
+    "lat": 34.6767137,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_14_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_15",
+    "name": "東小橋北公園",
+    "lng": 135.5335627,
+    "lat": 34.6733422,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_15_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_16",
+    "name": "玉津公園",
+    "lng": 135.5370557,
+    "lat": 34.6712317,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_16_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_17",
+    "name": "東小橋公園",
+    "lng": 135.5326639,
+    "lat": 34.6699994,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_17_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_18",
+    "name": "玉津南公園",
+    "lng": 135.5381846,
+    "lat": 34.6663069,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_18_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_19",
+    "name": "今里南公園",
+    "lng": 135.545226,
+    "lat": 34.6653136,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_19_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_20",
+    "name": "大今里南公園",
+    "lng": 135.5525363,
+    "lat": 34.6655579,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_20_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_21",
+    "name": "東中本公園",
+    "lng": 135.5451457,
+    "lat": 34.6761463,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_21_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_22",
+    "name": "南中本公園",
+    "lng": 135.5423932,
+    "lat": 34.6737158,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_22_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_23",
+    "name": "平戸公園",
+    "lng": 135.5407481,
+    "lat": 34.6698013,
+    "icon": "parts/sakura_icon.png",
+    "image": "img/images2020_23_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_101",
+    "name": "深江の菅田",
+    "lng": 135.5608173,
+    "lat": 34.6698355,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_101_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_101_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_102",
+    "name": "「松下幸之助 起業の地」顕彰碑",
+    "lng": 135.5381171,
+    "lat": 34.6687156,
+    "image": "img/images2020_102_1.jpg",
+    "desc": "　"
+  },
+  {
+    "id": "2020_103",
+    "name": "二軒茶屋、石橋旧跡の碑",
+    "lng": 135.5338942,
+    "lat": 34.6743311,
+    "desc": "﻿二軒茶屋・石橋　東小橋1丁目1番\n　江戸時代から暗越奈良街道は人の往来も盛んとなり、この街道沿いの玉造に「鶴屋」「桝屋」という二軒の茶屋が建てられ、旅人などの休息の場として繁盛したと伝えられています。\n　当時の玉造は旧市街のはずれで、旅人はここで旅装を整え、家族・友人の見送りを受けていた。茶屋が二軒あったところから、“二軒茶屋”といわれ世に広く知れわたりました。\n　この二軒茶屋のそばを流れていた猫間川に慶安3年（1650）に幕府の命によって橋が架けられ、宝永8年（1711）には石橋に架け替えられました。正式には黒門橋というが、大坂城の玉造門がこの付近にあり、それが黒かったことから黒門の名がつけられたとのことで、その黒門は天王寺の一心寺の寺門として移築されたと伝えられています。当時珍しく石で造られたので通称“石橋”と呼ばれていたが、その後大正13年に石橋は撤去された。石橋の廃石を現在、八阪神社で境内の狛犬や石灯籠の台石、記念碑に、また八王子神社では記念碑に転用しています。\n　現在、ＪＲ玉造駅の東路上に玉造名所　二軒茶屋・石橋旧跡の碑が建っており、大阪市の顕彰史跡に指定されています。\n",
+    "image": "img/images2020_103_1.jpg"
+  },
+  {
+    "id": "2020_104",
+    "name": "四代目桂米團治顕彰碑",
+    "lng": 135.5412423,
+    "lat": 34.6702666,
+    "desc": "﻿四代目桂米團治顕彰碑\n　四代目桂米團治は、現在の東成区役所駐車場にあたる地に住んで「中濱代書事務所」を開業し、その代書業の体験を元に後に上方落語の傑作といわれる「代書」を生み出しました。\n　平成21年は落語「代書」の初演70周年にもあたり、「中濱代書事務所」の地に顕彰碑が\n建立されました。\n",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_104_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_104_2.jpg\"></p><p class=\"recipient poi_desc\">﻿四代目桂米團治顕彰碑<br>　四代目桂米團治は、現在の東成区役所駐車場にあたる地に住んで「中濱代書事務所」を開業し、その代書業の体験を元に後に上方落語の傑作といわれる「代書」を生み出しました。<br>　平成21年は落語「代書」の初演70周年にもあたり、「中濱代書事務所」の地に顕彰碑が<br>建立されました。<br></p></div>"
+  },
+  {
+    "id": "2020_105",
+    "name": "「芸人の町・片江」顕彰板",
+    "lng": 135.5494188,
+    "lat": 34.6663111,
+    "desc": "﻿「芸人の町・片江」顕彰板\n　昭和初期、五代目笑福亭松鶴は、横山エンタツ、花菱アチャコらの漫才に押され凋落傾向にあった落語を憂い、大阪市東成区片江町内にあった自宅を「楽語荘」と名付け、上方落語の保存と新人落語家の養成に乗り出しました。\n　五代目松鶴は、「楽語荘」において、私財を投じて雑誌「上方はなし」を発刊、当時の四代目松鶴の松翁、桂米團治、花団治などが同人として集い、「上方はなしを聴く会」を催すなど、上方落語の再興に尽力しました。\n　多くの芸人が住んだ「片江」の歴史を後世に伝えるために平成22年顕彰板が設置されました。\n",
+    "image": "img/images2020_105_1.jpg"
+  },
+  {
+    "id": "2020_106",
+    "name": "火袋式道標",
+    "lng": 135.5491614,
+    "lat": 34.6677461,
+    "desc": "﻿火袋式道標（大今里4丁目27番先）\n　「右　志ぎ山、八尾久宝寺道　左　いせ、なら道」と記された、上部を四角にくりぬいて“火袋”とし、上に笠をのせた珍しい道標です。文化３年（1806）に建てられ、夜間明かりを入れて旅人の便をはかったものといわれています。\n",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_106_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_106_2.jpg\"></p><p class=\"recipient poi_desc\">﻿火袋式道標（大今里4丁目27番先）<br>　「右　志ぎ山、八尾久宝寺道　左　いせ、なら道」と記された、上部を四角にくりぬいて“火袋”とし、上に笠をのせた珍しい道標です。文化３年（1806）に建てられ、夜間明かりを入れて旅人の便をはかったものといわれています。<br></p></div>"
+  },
+  {
+    "id": "2020_107",
+    "name": "契沖遺跡（妙法寺）",
+    "lng": 135.5480474,
+    "lat": 34.6684526,
+    "desc": "﻿契沖（1640～1701）\n　尼崎藩士の子で11歳のとき出家して妙法寺に入り、高野山で修業した後、40歳のとき妙法寺の住職となり約10年間在職し、この間に主著「万葉代匠記」20巻を著しました。はじめ下河辺長流が徳川光圀から命じられて筆を進めていたが、病気のため契沖が代わりました。“代匠記”と名付けたのは師の長流に代わって著述したところからきています。「万葉代匠記」が成って徳川光圀から褒賞金と三足の香炉が贈られています。元禄3年（1690）のとき、円珠庵（現在の天王寺区空清町）にこもって学問に専念し、その講義や学風は後の加茂真淵や本居宣長らにひきつがれています。\n",
+    "image": "img/images2020_107_1.jpg"
+  },
+  {
+    "id": "2020_108",
+    "name": "歳の神",
+    "lng": 135.5454415,
+    "lat": 34.6714755,
+    "desc": "﻿歳の神　大今里1丁目34番\n　悪霊の侵入を防ぐため村境・辻などにまつられる神で、塞の神・障の神ともいう。一般には道祖伸と呼ばれ、疫病や災禍を防ぐ神とされています。ここにおまつりする歳の神は、天正11年（1583）豊臣秀吉が大阪城の築城に際し、その護り神として城を囲む周辺におまつりしたものの一つと伝えられています。\n\n\n",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_108_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_108_2.jpg\"></p><p class=\"recipient poi_desc\">﻿歳の神　大今里1丁目34番<br>　悪霊の侵入を防ぐため村境・辻などにまつられる神で、塞の神・障の神ともいう。一般には道祖伸と呼ばれ、疫病や災禍を防ぐ神とされています。ここにおまつりする歳の神は、天正11年（1583）豊臣秀吉が大阪城の築城に際し、その護り神として城を囲む周辺におまつりしたものの一つと伝えられています。<br></p></div>"
+  },
+  {
+    "id": "2020_109",
+    "name": "雁塚（法明寺）",
+    "lng": 135.5602832,
+    "lat": 34.6699136,
+    "desc": "﻿雁塚\n　ある猟師が雁を射落としたところ首がなかった。そのあとに一羽の雁を射落としたところ別の首を抱いていた。これは夫婦か親子の雁だろうとあわれんで、2基の石塔を建てたものと伝えられています。\n",
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_109_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_109_2.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_109_3.jpg\"></p><p class=\"recipient poi_desc\">﻿雁塚<br>　ある猟師が雁を射落としたところ首がなかった。そのあとに一羽の雁を射落としたところ別の首を抱いていた。これは夫婦か親子の雁だろうとあわれんで、2基の石塔を建てたものと伝えられています。<br></p></div>"
+  },
+  {
+    "id": "2020_201",
+    "name": "剣橋（平野川）",
+    "lng": 135.5391583,
+    "lat": 34.6678344,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_201_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_201_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_202",
+    "name": "平戸橋（平野川）",
+    "lng": 135.5390624,
+    "lat": 34.6695054,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_202_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_202_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_203",
+    "name": "入船橋（平野川）",
+    "lng": 135.5390014,
+    "lat": 34.6705477,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_203_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_203_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_204",
+    "name": "新道橋（平野川分水路）",
+    "lng": 135.5517724,
+    "lat": 34.6702722,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_204_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_204_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  },
+  {
+    "id": "2020_205",
+    "name": "祢宜橋（平野川分水路）",
+    "lng": 135.5529035,
+    "lat": 34.6765876,
+    "html": "<div class=\"poi_data hide\"><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_205_1.jpg\"></p><p class=\"col-xs-12 poi_img\"><img class=\"poi_img_tag\" src=\"img/images2020_205_2.jpg\"></p><p class=\"recipient poi_desc\">　</p></div>"
+  }
+    ]
+}
