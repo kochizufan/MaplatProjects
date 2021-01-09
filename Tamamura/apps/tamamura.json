@@ -1,0 +1,30 @@
+{
+    "app_name" : {
+        "ja" : "ぷらっと玉村",
+        "en" : "Maplat Tamamura"
+    },
+    "lang" : "ja",
+    "fake_gps" : true,
+    "fake_center" : {
+        "ja" : "玉村八幡宮",
+        "en" : "Tamamura Hachimangu Shrine"
+    },
+    "fake_radius" : 10,
+    "home_position" : [139.10886127098468, 36.305064960111366],
+    "default_zoom" : 17,
+    "start_from" : "tamamura_bunsei12",
+    "sources" : [
+        {
+            "label" : { "ja": "文政12年", "en": "" },
+            "map_id" : "tamamura_bunsei12"
+        },
+
+        "gsi",
+        "gsi_ortho",
+        {
+            "map_id" : "mapbox",
+            "label" : "Mapbox"
+        },
+        "osm"
+    ]
+}
