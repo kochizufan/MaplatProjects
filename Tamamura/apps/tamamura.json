@@ -15,10 +15,17 @@
     "start_from" : "tamamura_bunsei12",
     "sources" : [
         {
-            "label" : { "ja": "文政12年", "en": "" },
+            "label" : { "ja": "文政12年", "en": "Bunsei era" },
             "map_id" : "tamamura_bunsei12"
         },
-
+        {
+            "label" : { "ja": "慶応4年", "en": "Keio era" },
+            "map_id" : "keio_4-nen_tamamura_hachimann-gu_jinraku-ji_ezu"
+        },
+        {
+            "label" : { "ja": "明治元年", "en": "Meiji era" },
+            "map_id" : "meiji_1_nen_jinrakuji_jinja_nakatomi_ianoike_chikei"
+        },
         "gsi",
         "gsi_ortho",
         {
