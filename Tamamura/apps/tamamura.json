@@ -26,6 +26,14 @@
             "label" : { "ja": "明治元年", "en": "Meiji era" },
             "map_id" : "meiji_1_nen_jinrakuji_jinja_nakatomi_ianoike_chikei"
         },
+        {
+            "label" : { "ja": "まち歩き", "en": "Stroll Map" },
+            "map_id" : "tamamura_machiaruki"
+        },
+        {
+            "label" : { "ja": "歴史散策", "en": "History Map" },
+            "map_id" : "tamamura_rekishi"
+        },
         "gsi",
         "gsi_ortho",
         {
