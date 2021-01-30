@@ -5,7 +5,7 @@
   <title>Maplat</title>
   <meta content="yes" name="apple-mobile-web-app-capable">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-  <link rel="stylesheet" href="dist/maplat.css">
+  <link rel="stylesheet" href="assets/maplat.css">
   <link rel="icon" type="image/png" href="parts/favicon.png">
   <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171293659-1"></script>
@@ -27,16 +27,32 @@
   </div>
 </body>
 <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js"></script>
-<script src="dist/maplat.js"></script> 
+<script src="assets/maplat.js"></script>
 <script>
- var option = {
-      cache_enable: true,
-      restore_session: false,
-      appid: 'higashinari-ku-map',
-      state_url: true,
-      enable_share: true,
-      mapboxgl: mapboxgl,
-      mapboxToken: 'pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg'
+    var option = {
+        enableCache: true,
+        restoreSession: false,
+        appid: 'higashinari-ku-map',
+        stateUrl: true,
+        enableShare: true,
+        pwaManifest: true,
+        control: {
+            zoom_minus: "parts/minus.png",
+            zoom_plus: "parts/plus.png",
+            attr: "parts/attr.png",
+            gps: "parts/gps.png",
+            home: "parts/home.png",
+            help: "parts/help.png",
+            compass: "parts/compass.png",
+            share: "parts/share.png",
+            slider_in_help: "parts/slider.png",
+            slider_color: "#92c7dc",
+            favicon: "parts/favicon.png"
+        },
+        icon: "parts/defaultpin.png",
+        selectedIcon: "parts/defaultpin_r.png",
+        mapboxgl: mapboxgl,
+        mapboxToken: 'pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg'
     };
 
     var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
