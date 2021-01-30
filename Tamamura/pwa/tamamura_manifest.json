@@ -23,6 +23,6 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "start_url": "../debug.html?overlay=true",
+  "start_url": "./",
   "display": "standalone"
 }
