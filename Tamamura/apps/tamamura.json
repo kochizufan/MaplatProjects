@@ -41,5 +41,63 @@
             "label" : "Mapbox"
         },
         "osm"
+    ],
+    "pois": [
+        {
+            "name" : "国指定重要文化財 玉村八幡宮",
+            "address" : "玉村町大字下新田1",
+            "lat" : 36.304967,
+            "lng" : 139.108833,
+            "desc" : "",
+            "image" : "tamamura_hachimangu.jpg"
+        },
+        {
+            "name" : "神楽寺本堂",
+            "address" : "玉村町大字下新田9",
+            "lat" : 36.304794,
+            "lng" : 139.108232,
+            "desc" : "",
+            "image" : "jinrakuji_hondo.jpg"
+        },
+        {
+            "name" : "国登録有形文化財 井田家住宅",
+            "address" : "玉村町大字上新田1626",
+            "lat" : 36.303311,
+            "lng" : 139.108002,
+            "desc" : "",
+            "image" : "idake_jutaku.jpg"
+        },
+        {
+            "name" : "絵図に描かれる蛭堀(ビリボリ)に架かる橋",
+            "address" : "玉村町大字下新田1492-2",
+            "lat" : 36.303237,
+            "lng" : 139.106371,
+            "desc" : "文政12年絵図に見える橋表現がこれに該当するものと思われる。",
+            "image" : "biribori_bridge.jpg"
+        },
+        {
+            "name" : "玉村町史跡 木島本陣跡歌碑",
+            "address" : "玉村町大字下新田484-1",
+            "lat" : 36.303592,
+            "lng" : 139.112148,
+            "desc" : "",
+            "image" : "kijima_honjin.jpg"
+        },
+        {
+            "name" : "福嶋屋",
+            "address" : "玉村町大字上新田1637",
+            "lat" : 36.303099,
+            "lng" : 139.107031,
+            "desc" : "ロールケーキが有名。",
+            "image" : "fukushimaya.jpg"
+        },
+        {
+            "name" : "みよし乃製菓舗",
+            "address" : "玉村町大字下新田633-2",
+            "lat" : 36.303017,
+            "lng" : 139.109101,
+            "desc" : "ロールケーキが有名。",
+            "image" : "miyoshino_seika.jpg"
+        }
     ]
 }
