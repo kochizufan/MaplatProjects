@@ -64,7 +64,7 @@
         "lat" : 34.673126,
         "lng" : 135.545575,
         "start" : 1017,
-        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/SFlKkqBJgAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+        "desc" : "<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/SFlKkqBJgAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
         "image" : "hatiouziotabizyo.jpg"
       },
       {
@@ -91,7 +91,7 @@
         "lat" : 34.675339,
         "lng" : 135.538062,
         "start" : "垂仁天皇2年",
-        "desc" : "１、宮司さんのお話<iframe width=560 height=315 src=https://www.youtube.com/embed/FK4VfFTxuEg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、だんじりとお神輿について<iframe width=560 height=315 src=https://www.youtube.com/embed/AvV6cGygXgY frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+        "desc" : "１、宮司さんのお話<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/FK4VfFTxuEg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、だんじりとお神輿について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/AvV6cGygXgY frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
       },
       {
         "name" : "以前は橋の壁",
@@ -126,7 +126,7 @@
         "lat" : 34.677439,
         "lng" : 135.539973,
         "start" : 1017,
-        "desc" : "１、東成5社について<iframe width=560 height=315 src=https://www.youtube.com/embed/o2jX24CREUM frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、相撲部屋について<iframe width=560 height=315 src=https://www.youtube.com/embed/EsYZYCpx-5U frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、龍と護摩焚きについて<iframe width=560 height=315 src=https://www.youtube.com/embed/IPXRV7GMIkw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、八王子御旅所について<iframe width=560 height=315 src=https://www.youtube.com/embed/28FFHI0CPAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+        "desc" : "１、東成5社について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/o2jX24CREUM frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>２、相撲部屋について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/EsYZYCpx-5U frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、龍と護摩焚きについて<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/IPXRV7GMIkw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、八王子御旅所について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/28FFHI0CPAs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
       },
       {
         "name" : "神路・東今里村の境界",
@@ -143,7 +143,7 @@
         "lat" : 34.674562,
         "lng" : 135.550456 ,
         "start" : 1017,
-        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/vQGJJUKsU-s frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+        "desc" : "<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/vQGJJUKsU-s frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
       },
       {
         "name" : "熊野大神宮御旅所遠景",
@@ -241,7 +241,7 @@
         "lat" : 34.668498,
         "lng" : 135.548309,
         "start" : "",
-        "desc" : "<iframe width=560 height=315 src=https://www.youtube.com/embed/V2pEG6O_fXc frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+        "desc" : "<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/V2pEG6O_fXc frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
       },
       {
         "name" : "比賣許曾（ひめこそ）神社 ",
@@ -250,7 +250,7 @@
         "lng" : 135.534183,
         "start" : "",
 	      "icon" : "parts/defaultpin.png",
-        "desc" : "１、回廊について<iframe width=560 height=315 src=https://www.youtube.com/embed/_NRj07dJPO8 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、絵画について<iframe width=560 height=315 src=https://www.youtube.com/embed/ZCKccH6QKk0 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、狛犬について<iframe width=560 height=315 src=https://www.youtube.com/embed/FjALm-2xqY4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、参道について<iframe width=560 height=315 src=https://www.youtube.com/embed/DJtPDS6MjP4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>5、胞衣塚について<iframe width=560 height=315 src=https://www.youtube.com/embed/vcSgwRL-cWg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
+        "desc" : "１、回廊について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/_NRj07dJPO8 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、絵画について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/ZCKccH6QKk0 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>3、狛犬について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/FjALm-2xqY4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>4、参道について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/DJtPDS6MjP4 frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>5、胞衣塚について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/vcSgwRL-cWg frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>"
       },
       {
         "name" : "日本一小さい狛犬",
@@ -478,7 +478,7 @@
           "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６−１４",
           "lat" : 34.669970,
           "lng" : 135.560929,
-          "desc" : "１、角谷三兄弟<iframe width=560 height=315 src=https://www.youtube.com/embed/IhXeGjG3Vbw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、角谷三兄弟の父<iframe width=560 height=315 src=https://www.youtube.com/embed/fstyIXQxhOs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>３、菅笠について<iframe width=560 height=315 src=https://www.youtube.com/embed/jQ1nKyOPIVo frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>４、道中笠と奈良街道<iframe width=560 height=315 src=https://www.youtube.com/embed/rrFjDbHaiVQ frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+          "desc" : "１、角谷三兄弟<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/IhXeGjG3Vbw frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、角谷三兄弟の父<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/fstyIXQxhOs frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>３、菅笠について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/jQ1nKyOPIVo frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>４、道中笠と奈良街道<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/rrFjDbHaiVQ frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
           "image" : "hukaeinarisiryokan3.jpg"
         },
         {
@@ -486,7 +486,7 @@
           "address" : "〒537-0002 大阪府大阪市東成区深江南３丁目１６",
           "lat" : 34.669659,
           "lng" : 135.560680,
-          "desc" : "１、神社の管轄について<iframe width=560 height=315 src=https://www.youtube.com/embed/pKLIgeKfwoI frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、祭りについて<iframe width=560 height=315 src=https://www.youtube.com/embed/2LF6IslodvA frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
+          "desc" : "１、神社の管轄について<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/pKLIgeKfwoI frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>2、祭りについて<iframe width=\"100%\" height=315 src=https://www.youtube.com/embed/2LF6IslodvA frameborder=0 allow=autoplay; encrypted-media allowfullscreen></iframe>",
           "image" : "hukaeinarizinzya.jpg"
         },
   {
