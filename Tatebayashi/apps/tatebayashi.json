@@ -119,5 +119,5 @@
         },
         "osm"
     ], 
-    "pois" : ["tatebayashi.json"]
+    "pois" : ["tatebayashi.json", "stones_poi.json"]
 }
