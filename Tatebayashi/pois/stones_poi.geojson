@@ -1205,7 +1205,7 @@
       "type": "Feature",
       "properties": {
         "name": "青梅庚申塔",
-        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no141 .JPG",
+        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no141.JPG",
         "address": "本町二丁目 青梅天神",
         "desc": "<b>年代:</b> 不明 (　)<br><b>備考:</b> 碑型、文字<br><b>撮影日時:</b> 2020/11/28 10:59:38<br><b>参考文献:</b> 『文化財総合調査 館林市の石造文化財 館林・郷谷の石仏』(館林石仏調査研究会編 1979)<br>情報提供：ぐんま史料ネット"
       },
@@ -1541,7 +1541,7 @@
       "type": "Feature",
       "properties": {
         "name": "自然石庚申塔",
-        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no134 .JPG",
+        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no134.JPG",
         "address": "本町四丁目 龍泉寺",
         "desc": "<b>年代:</b> 寛政12年 (1800)<br><b>備考:</b> 自然石、文字<br><b>撮影日時:</b> 2020/11/28 11:18:20<br><b>参考文献:</b> 『文化財総合調査 館林市の石造文化財 館林・郷谷の石仏』(館林石仏調査研究会編 1979)<br>情報提供：ぐんま史料ネット"
       },
@@ -1653,8 +1653,9 @@
       "type": "Feature",
       "properties": {
         "name": "宝永観性寺庚申塔",
+        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no128.JPG",
         "address": "仲町 観性寺",
-        "desc": "<b>年代:</b> 宝永元年 (1704)<br><b>備考:</b> 舟型背面、像浮彫<br><b>参考文献:</b> 『文化財総合調査 館林市の石造文化財 館林・郷谷の石仏』(館林石仏調査研究会編 1979)<br>情報提供：ぐんま史料ネット"
+        "desc": "<b>年代:</b> 宝永元年 (1704)<br><b>備考:</b> 舟型背面、像浮彫<br><b>撮影日時:</b> 2020/11/28 12:08:00<br><b>参考文献:</b> 『文化財総合調査 館林市の石造文化財 館林・郷谷の石仏』(館林石仏調査研究会編 1979)<br>情報提供：ぐんま史料ネット"
       },
       "geometry": {
         "type": "Point",
@@ -1668,7 +1669,7 @@
       "type": "Feature",
       "properties": {
         "name": "寛政玉石庚申塔",
-        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no133 .JPG",
+        "image": "https://t.tilemap.jp/maplat/img/Tatebayashi/Stones/no133.JPG",
         "address": "仲町 観性寺",
         "desc": "<b>年代:</b> 寛政12年 (1800)<br><b>備考:</b> 玉石、文字<br><b>撮影日時:</b> 2020/11/28 12:08:30<br><b>参考文献:</b> 『文化財総合調査 館林市の石造文化財 館林・郷谷の石仏』(館林石仏調査研究会編 1979)<br>情報提供：ぐんま史料ネット"
       },
